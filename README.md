@@ -1,14 +1,13 @@
 # JavaScript Stopwatch
 
 ### Description
-This homework was assigned to test my understanding of JavaScript. The task was to create a grid-maker where you input the length of the width and height of the grid. In addition, the grid had to be able to change colours when clicked on. 
+The homework assigned was to create a stopwatch using JavaScript. Certain requirements had to be met, such as the watch had to be a three digit clock, with minutes, seconds and milliseconds. Also it had to have several buttons which includes start, pause and reset.
 
 ### Languages used
 * JavaScript
-* CSS
 * HTML
 
 ### How to download
 1. Clone the Git repo
 2. Open the files and run index.html file
-3. You will now be able to run the web application!
+3. You will now be able to view the web application!
