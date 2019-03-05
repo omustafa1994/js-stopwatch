@@ -1,7 +1,7 @@
 # JavaScript Stopwatch
 
 ### Description
-The homework assigned was to create a stopwatch using JavaScript. Certain requirements had to be met, such as the watch had to be a three digit clock, with minutes, seconds and milliseconds. Also it had to have several buttons which includes start, pause and reset.
+The homework assigned was to create a stopwatch using JavaScript. Certain requirements had to be met, such as the watch had to be a three digit clock, with minutes, seconds and milliseconds. Also it had to have several buttons which had to include start, pause and reset.
 
 ### Languages used
 * JavaScript
